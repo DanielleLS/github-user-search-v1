@@ -1,0 +1,20 @@
+{
+  "name": "frontend_tests",
+  "version": "1.0.0",
+  "description": "Tests GitHub User Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+
+  },
+  "keywords": [
+    "Testing",
+    "Cypress.io"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.6"
+  }
+}
